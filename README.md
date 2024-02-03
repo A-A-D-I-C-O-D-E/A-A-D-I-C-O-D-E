@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Science and DSA
 - 🔭 I'm currently working on ML projects
 - 📫 How to reach me ag8006668860@gmail.com
-- ⚡ I love lift weights and playing badminton 
+- ⚡ I love lifting weights and playing badminton 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/aditya-gupta-707113165/">
   <img align="left" alt="Aditya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
