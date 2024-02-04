@@ -1,6 +1,6 @@
 <h1 align="centre">👋 Hi, I’m Aditya Gupta</h1>
 
-<img align="right" alt="Artificial Intelligence" src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY5MzkwNTMsIm5iZiI6MTcwNjkzODc1MywicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjAzVDA1MzkxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjNzE4ZDE3Y2Q5Nzc1MDBjZGQzZGQ5YWUzZmE2ZWMwNzI0MDI0OWNiMWQ5NTEzODgyYzQ2NjRkMjdkZjk5ZDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Y692iDO-tz_EeVjcioeAD69WINRkFESsmtMEVJh5Wn4" width="300"/> 
+<img align="right" alt="Artificial Intelligence" src="https://media.giphy.com/media/nWYhuWzGRVEhKC044Z/giphy.gif" width="300"/> 
 
 - 👀 I’m interested in MLOps
 - 🌱 I’m currently learning Data Science and DSA
