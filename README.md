@@ -24,7 +24,7 @@
 
 </div>
 
-
+![snake gif](https://github.com/A-A-D-I-C-O-D-E/A-A-D-I-C-O-D-E/blob/output/github-snake-dark.svg)
 
 <!---
 A-A-D-I-C-O-D-E/A-A-D-I-C-O-D-E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
