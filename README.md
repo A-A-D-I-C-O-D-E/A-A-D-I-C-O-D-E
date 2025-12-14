@@ -5,7 +5,7 @@
 - 👀 I’m interested in MLOps
 - 🌱 I’m currently learning Data Science and DSA
 - 🔭 I'm currently working on ML projects
-- 📫 How to reach me ag8006668860@gmail.com
+- 📫 How to reach me adityawork1102@gmail.com
 - ⚡ I love lifting weights and playing badminton 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/aditya-gupta-707113165/">
