@@ -2,11 +2,17 @@
 
 <img align="right" alt="Artificial Intelligence" src="https://media.giphy.com/media/nWYhuWzGRVEhKC044Z/giphy.gif" width="300"/> 
 
-- 👀 I’m interested in MLOps
-- 🌱 I’m currently learning Data Science and DSA
-- 🔭 I'm currently working on ML projects
-- 📫 How to reach me adityawork1102@gmail.com
-- ⚡ I love lifting weights and playing badminton 
+- 👨‍💻 AI/ML & Python Developer with a strong interest in MLOps and scalable ML systems
+
+- 📊 Actively building and deploying machine learning projects, from data preprocessing to model serving
+
+- 🌱 Continuously upskilling in Data Science, Algorithms, and Data Structures (DSA) to strengthen problem-solving and system design
+
+- 🔍 Hands-on experience with model training, evaluation, and real-world ML workflows
+
+- 📫 Reach me at: adityawork1102@gmail.com
+
+⚡ Outside of tech, I stay disciplined through strength training and enjoy playing badminton
 ### Connect with me:
 <a href="https://www.linkedin.com/in/aditya-gupta-707113165/">
   <img align="left" alt="Aditya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
